@@ -1,4 +1,4 @@
-package programaciondmi.dca.core.interfaces;
+ package programaciondmi.dca.core.interfaces;
 
 import programaciondmi.dca.core.EspecieAbstracta;
 
